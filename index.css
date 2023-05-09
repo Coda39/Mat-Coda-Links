@@ -43,10 +43,11 @@ header {
     align-items: center; 
 } 
 
-header > img { width: 8em; 
-    height: 8em; 
+header > img { width: 9em; 
+    height: 9em; 
     border-radius: 100%; 
     border: 1px solid #fff; 
+    object-fit: cover;
 } 
 
 header > h1 {
